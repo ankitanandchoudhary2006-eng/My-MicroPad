@@ -16,7 +16,7 @@ I made a 3X3 based 9 switch Micropad for myself . It is based on Arduino Pro Mic
 |-|-|-|-|
 | PCB (JLCPCB) | -- | 4.00 |https://jlcpcb.com|
 | PCB Shipping |-- | 12.74 |https://jlcpcb.com|
-| Seeed Studio XIAO RP2040 | 1 | 4.5 |https://techtonics.in/product/pro-micro-5v-16m-mini-leonardo-microcontroller-development-board-for-arduino/?srsltid=AYCX9vJeikhHUYzo6JpJ6TNSQzDIA6YELvjYIm1bSd-VTx6eLO7aiRJ7tsY
+| Arduino Pro Micro | 1 | 4.5 |https://techtonics.in/product/pro-micro-5v-16m-mini-leonardo-microcontroller-development-board-for-arduino/?srsltid=AYCX9vJeikhHUYzo6JpJ6TNSQzDIA6YELvjYIm1bSd-VTx6eLO7aiRJ7tsY
 |Switches + Keycaps	|6|	2.1|	https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/akko-v3-pro-cream-black-switch/|
 | Diodes | 6 | 0.00 **Alread Have**|https://www.amazon.in/Electronic-Spices-Inverse-Voltage-Rectifier/dp/B0BGX995MB|
 | 0.91" OLED Screen | 1 | 3.1 |https://www.amazon.in/Robocraze-Display-Module-Interface-Arduino/dp/B084H9HLCS|
