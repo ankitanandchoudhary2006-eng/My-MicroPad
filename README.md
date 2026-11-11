@@ -20,13 +20,12 @@ I made a 3X3 based 9 switch Micropad for myself . It is based on Arduino Pro Mic
 |Switches + Keycaps	|6|	2.1|	https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/akko-v3-pro-cream-black-switch/|
 | Diodes | 6 | 0.00 **Alread Have**|https://www.amazon.in/Electronic-Spices-Inverse-Voltage-Rectifier/dp/B0BGX995MB|
 | 0.91" OLED Screen | 1 | 3.1 |https://www.amazon.in/Robocraze-Display-Module-Interface-Arduino/dp/B084H9HLCS|
-| Rotary Encoder | 1 | 0.00 **Alread Have** |(https://www.amazon.in/CentIoT-Encoder-Digital-Potentiometer-Control/dp/B0888RVZSN|
-| SK6812MINI-E | 6 | 0.00 **Alread Have** | https://www.etstore.in/products/e9974) |
-|HOTSWAP| 1 PACK (10 pieces )|0.0 |https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/
+
+
 
 ## Total Cost
 
-**Total price 26.44**
+**Total price 23.34**
 
 
 
