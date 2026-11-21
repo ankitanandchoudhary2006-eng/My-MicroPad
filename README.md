@@ -1,5 +1,6 @@
 # My-MicroPad
-<img width="987" height="606" alt="Screenshot 2026-10-28 155904" src="https://github.com/user-attachments/assets/b7c86ce5-10d4-447d-885e-4d9a67845732" />
+<img width="816" height="498" alt="Screenshot 2026-11-21 182354" src="https://github.com/user-attachments/assets/920d686f-8711-4df9-b81c-54867cd394fa" />
+
 
 I made a 3X3 based 9 switch Micropad for myself . The board has per switch diode to prevent ghosting . The Micropad is mainly for general shotcuts like (cut,copy paste,screenshot and to open specific wondows / shortcuts for specific functions .)  It is based on Arduino Pro Micro , I choosed it because it is small in size and fit's the requirements for the micropad perfectly . This is my first hardware project that I worked on and it was really fun . I made the PCB on Kicad and the 3D CAD on fuion 360.
 
@@ -35,6 +36,7 @@ I made a 3X3 based 9 switch Micropad for myself . The board has per switch diode
 <img width="900" height="541" alt="Screenshot 2026-11-11 174027" src="https://github.com/user-attachments/assets/3d795d78-1098-4b8a-9576-ad74a991e5fc" />
 
 ### 3D Render <br><br>
-<img width="987" height="606" alt="Screenshot 2026-10-28 155904" src="https://github.com/user-attachments/assets/db092864-78db-44a3-a551-620f6d888fea" />
-<img width="870" height="525" alt="Screenshot 2026-10-28 155931" src="https://github.com/user-attachments/assets/f19cb6c5-65d5-4f2b-b843-e45891304fd0" />
+<img width="816" height="498" alt="Screenshot 2026-11-21 182354" src="https://github.com/user-attachments/assets/d38eaaa1-7367-4c42-9527-ff4ed25555ee" />
+<img width="828" height="538" alt="Screenshot 2026-11-21 182338" src="https://github.com/user-attachments/assets/a6834204-a356-4da0-8255-1915ace50313" />
+
 
