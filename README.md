@@ -7,7 +7,7 @@ I made a 3X3 based 9 switch Micropad for myself . The board has per switch diode
  - Based on Arduino Pro Micro
  - USB-B Type for Connection
  - Ghosting prevention
-
+- 3x3 matrix compact matrix design
 
 
 ## BOM 
